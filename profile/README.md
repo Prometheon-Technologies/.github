@@ -1,8 +1,8 @@
-<!-- <div align="center">
+<div align="center">
  <br>
  <a href="https://github.com/Prometheon-Technologies/.github/blob/main/hbat.svg">
-  <img src="hbat.svg" style="filter: " width="800" height="400" alt="Welcome to the HBAT Project">
- </a> -->
+  <img src="hbat.svg" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%)" width="800" height="400" alt="Welcome to the HBAT Project">
+ </a>
  <br>
 </div>
 <div align="center">
