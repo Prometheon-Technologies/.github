@@ -11,6 +11,69 @@
   style="enable-background:new 0 0 1275 577;"
   xml:space="preserve"
 >
+<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate {
+					0% {
+						transform: rotate(3deg);
+					}
+					100% {
+						transform: rotate(-3deg);
+					}
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background: linear-gradient(-45deg, #00F260, #0575E6, #24243e);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+			</style>
+			<div class="container">
+			</div>
+		</div>
+	</foreignObject>
 <path
     d="M238.6,174.7v111.3H66V174.7H0v285.6h66.5V342.5H239v117.8h66.4V174.7H238.6z"
   />
