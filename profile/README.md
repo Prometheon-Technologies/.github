@@ -1,6 +1,6 @@
 <div align="center">
  <br>
-    <p><img src="https://github.com/Prometheon-Technologies/Prometheon-Technologies/blob/main/profile/imgs/hbat.svg" width="800" height="400" alt="HBAT Logo"></p>
+    <p><img src="https://github.com/Prometheon-Technologies/.github/blob/main/profile/imgs/hbat.svg" width="800" height="400" alt="HBAT Logo"></p>
  <br>
 </div>
 <div align="center">
@@ -47,7 +47,7 @@
 </p>
 <br>
 
-:star: Prometheon-Technologies / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/Prometheon-Technologies/Prometheon-Technologies/blob/main/profile/imgs/wizard.svg" width="150" height="80" alt="Wizard Emoji"></p>
+:star: Prometheon-Technologies / DaOfficialWizard#2377 (Discord) <p><img src="https://github.com/Prometheon-Technologies/.github/blob/main/profile/imgs/wizard.svg" width="150" height="80" alt="Wizard Emoji"></p>
 
 <br>
 
