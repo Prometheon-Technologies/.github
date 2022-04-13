@@ -1,9 +1,16 @@
 <svg
   fill="none"
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
   viewBox="0 0 800 400"
   width="800"
   height="400"
-  xmlns="http://www.w3.org/2000/svg"
+  x="0px"
+  y="0px"
+  style="enable-background:new 0 0 1275 577;"
+  xml:space="preserve"
 >
 	<path
     d="M238.6,174.7v111.3H66V174.7H0v285.6h66.5V342.5H239v117.8h66.4V174.7H238.6z"
