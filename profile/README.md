@@ -1,7 +1,7 @@
 <div align="center">
  <br>
  <a href="https://github.com/Prometheon-Technologies/.github/blob/main/hbat.svg">
-  <img src="header.svg" width="800" height="400" alt="Welcome to the HBAT Project">
+  <img src="hbat.svg" width="800" height="400" alt="Welcome to the HBAT Project">
  </a>
  <br>
 </div>
