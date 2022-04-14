@@ -57,7 +57,7 @@
 					text-align: center;
 				}
         svg {
-          width: 100%;
+          width: 800px;
           height: 400px;
           animation: fadeIn 10s ease fadeOut 10s ease infinite;
           color: "red";
