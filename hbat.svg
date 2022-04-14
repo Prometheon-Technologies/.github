@@ -58,7 +58,7 @@
 				}
 
         path {
-        fill: #5a5662; opacity: 0;
+        fill: "#5a5662"; opacity: 0;
         animation: 5.5s opacity infinite;
         animation: 5.5s color infinite;
         }
@@ -71,10 +71,10 @@
         }
 
         @keyframes color {
-          15% {color: #5a5662} 
-          35% {color: #141718}
-          65% {color: #141718} 
-          85% {color: #5a5662}
+          15% {color: "#5a5662"} 
+          35% {color: "#141718"}
+          65% {color: "#141718"} 
+          85% {color: "#5a5662"}
         }
 
         #hg3 {animation-delay: 1.0s}
