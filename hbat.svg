@@ -59,8 +59,8 @@
         path {
         fill: red; opacity: 0;
         animation: 5.5s opacity infinite;
-        width: 100%;
-        height: 100%;
+        width: 50%;
+        height: 50%;
         }
         @keyframes opacity {
           15% {opacity: 0} 
