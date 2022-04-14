@@ -63,8 +63,7 @@
         }
 
         svg {
-          color: red;
-          animation: 5.5s color infinite;
+          color: white;
         }
 
         @keyframes opacity {
@@ -72,13 +71,6 @@
           35% {opacity: 1}
           65% {opacity: 1} 
           85% {opacity: 0}
-        }
-
-        @keyframes color {
-          15% {color: red} 
-          35% {color: yellow}
-          65% {color: yellow} 
-          85% {color: red}
         }
 
         #hg3 {animation-delay: 1.0s}
