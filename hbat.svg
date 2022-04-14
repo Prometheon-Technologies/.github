@@ -76,6 +76,7 @@
         #hg4 {animation-delay: 1.5s}
         #hg5 {animation-delay: 2.0s}
         #hg5 {animation-delay: 2.5s}
+        #hg6 {animation-delay: 3.0s}
 
         #Layer_1 {
           width: 100%;
