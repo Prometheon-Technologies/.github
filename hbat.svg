@@ -37,6 +37,7 @@
         }
 
         .drop:before {
+          display: flex;
           content: "";
           position: absolute;
           width: 0;
@@ -48,7 +49,7 @@
         }
 
         .wave {
-          display: block;
+          display: flex;
           position: relative;
           opacity: 0;
           top: 0;
@@ -73,6 +74,7 @@
         }
 
         .wave:after {
+          display: flex;
           content: "";
           position: absolute;
           opacity: 0;
