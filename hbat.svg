@@ -58,7 +58,7 @@
 				}
 
         path {
-        fill: "white"; opacity: 0;
+        fill: white; opacity: 0;
         animation: 5.5s opacity infinite;
         }
 
