@@ -58,8 +58,9 @@
 				}
 
         path {
-        fill: "black"; opacity: 0;
+        fill: #5a5662; opacity: 0;
         animation: 5.5s opacity infinite;
+        animation: 5.5s color infinite;
         }
 
         @keyframes opacity {
@@ -69,12 +70,20 @@
           85% {opacity: 0}
         }
 
+        @keyframes color {
+          15% {color: #5a5662} 
+          35% {color: #141718}
+          65% {color: #141718} 
+          85% {color: #5a5662}
+        }
+
         #hg3 {animation-delay: 1.0s}
         #hg5 {animation-delay: 2.5s}
         #hg2 {animation-delay: 0.5s}
         #hg6 {animation-delay: 0.5s}
         #hg5 {animation-delay: 2.0s}
         #hg4 {animation-delay: 1.5s}
+
 			</style>
 			<div class="container">
         <svg
