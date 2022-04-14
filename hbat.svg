@@ -126,7 +126,7 @@
 
         @keyframes drip {
             to {
-              top: 100px;
+              top: 190px;
             }
         }
 
