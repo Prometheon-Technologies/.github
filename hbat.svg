@@ -59,9 +59,24 @@
         svg {
           width: 800px;
           height: 400px;
-          animation: fadeIn 10s ease fadeOut 10s ease infinite;
-          color: "red";
+          <!-- animation: fadeIn 10s ease fadeOut 10s ease infinite; -->
+          <!-- color: "red"; -->
         }
+        path {
+        fill: red; opacity: 0;
+        animation: 5.5s opacity infinite;
+        }
+        @keyframes opacity {
+          15% {opacity: 0} 
+          35% {opacity: 1}
+          65% {opacity: 1} 
+          85% {opacity: 0}
+        }
+
+        #hg2 {animation-delay: 0.5s}
+        #hg3 {animation-delay: 1.0s}
+        #hg4 {animation-delay: 1.5s}
+        #hg5 {animation-delay: 2.0s}
 			</style>
 			<div class="container">
         <svg
@@ -80,6 +95,7 @@
             d="M238.6,174.7v111.3H66V174.7H0v285.6h66.5V342.5H239v117.8h66.4V174.7H238.6z"
           />
           <path
+            id="hg1"
             fill="currentColor"
             d="M353,460.3h198.4c61.2,0,99.1-29.9,99.1-80.3c0.1-15.1-4.6-29.8-13.4-42c-8.8-12.2-21.3-21.3-35.6-26
             c12-4.9,22.3-13.2,29.6-24c7.2-10.8,11.1-23.5,11-36.5c0-49.6-35.3-76.7-97.7-76.7H353V460.3z M416.7,289.3v-60h120.9
@@ -87,19 +103,23 @@
             c0,19.1-15.1,32.2-40.5,32.2H416.7V341z"
           />
           <path
+            id="hg2"
             fill="currentColor"
             d="M1274.7,231.6v-56.8H960.3v56.8h124.1v228.7h66.4V231.6H1274.7z"
           />
           <path
+            id="hg3"
             fill="currentColor"
             d="M881.6,174.7h-75.1L663.7,460.2h70.8l30.2-61.2l27.2-54.9h-0.1l19.4-39V305l32.3-65l40.7,82.8l10.5,21.3l56.9,116.1h71.9
             L881.6,174.7z"
           />
           <path
+            id="hg4"
             fill="currentColor"
             d="M844.2,576c16,0,28.9-13,28.9-28.9c0-16-13-28.9-28.9-28.9c-16,0-28.9,13-28.9,28.9C815.2,563.1,828.2,576,844.2,576z"
           />
           <path
+            id="hg5"
             fill="currentColor"
             d="M844.2,57.9c16,0,28.9-13,28.9-28.9S860.1,0,844.2,0c-16,0-28.9,13-28.9,28.9S828.2,57.9,844.2,57.9z"
           />
