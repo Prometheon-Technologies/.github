@@ -177,8 +177,8 @@
 			</style>
 			<div class="container">
         <div class="drop"></div>
-        <div class="wave"></div>
         
+
         <svg
           fill="currentColor"
           version="1.1"
@@ -225,6 +225,7 @@
             d="M844.2,57.9c16,0,28.9-13,28.9-28.9S860.1,0,844.2,0c-16,0-28.9,13-28.9,28.9S828.2,57.9,844.2,57.9z"
           />
         </svg>
+        <div class="wave"></div>
 			</div>
 		</div>
 	</foreignObject>
