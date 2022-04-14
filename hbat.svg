@@ -59,7 +59,7 @@
         svg {
           width: 100%;
           height: 400px;
-          animation: fadeIn 10s ease infinite;
+          animation: fadeIn 10s ease fadeOut 10s ease infinite;
           color: "red";
         }
 			</style>
