@@ -46,7 +46,7 @@
 					background: linear-gradient(
             to bottom,
             #000000 0%,
-            #000000 100%
+            #4c4c4c 100%
           );
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
