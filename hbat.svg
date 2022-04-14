@@ -70,11 +70,11 @@
         }
 
         #hg3 {animation-delay: 1.0s}
+        #hg5 {animation-delay: 2.5s}
         #hg2 {animation-delay: 0.5s}
         #hg6 {animation-delay: 0.5s}
         #hg5 {animation-delay: 2.0s}
         #hg4 {animation-delay: 1.5s}
-        #hg5 {animation-delay: 2.5s}
 			</style>
 			<div class="container">
         <svg
