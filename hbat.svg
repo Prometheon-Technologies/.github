@@ -63,7 +63,7 @@
         }
 
         svg {
-          color: red;
+          color: black;
           animation: 5.5s color infinite;
         }
 
@@ -75,10 +75,10 @@
         }
 
         @keyframes color {
-          15% {color: red} 
-          35% {color: yellow}
-          65% {color: yellow} 
-          85% {color: red}
+          15% {color: black} 
+          35% {color: white}
+          65% {color: white} 
+          85% {color: black}
         }
 
         #hg3 {animation-delay: 1.0s}
