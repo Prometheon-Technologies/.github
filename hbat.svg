@@ -53,7 +53,7 @@
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
-					color: "white";
+					color: white;
 					text-align: center;
 				}
 
