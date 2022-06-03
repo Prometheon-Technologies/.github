@@ -54,6 +54,6 @@
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hbatproject)
-<a href="https://www.f6s.com/zacariahheim?follow=1" target="_blank" title="Follow Zacariah Heim on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="78" height="22 " alt="Follow Zacariah Heim on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" />
+<a href="https://www.f6s.com/zacariahheim?follow=1" target="_blank" title="Follow Zacariah Heim on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="277" height="78" alt="Follow Zacariah Heim on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" />
 </a>
 ![Profile Views](https://komarev.com/ghpvc/?username=Prometheon-Technologies&color=grey)
